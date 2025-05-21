@@ -44,8 +44,8 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <Shield className="h-8 w-8 text-primary-600" />
-            <span className="text-xl font-bold text-primary-800">Wright Security</span>
+            <img height={40} width={40} src="/assets/logos/wright.jpg" alt="wright" />
+            <span className="text-xl font-bold text-primary-800">Wright Security Consultant</span>
           </Link>
 
           {/* Desktop Navigation */}

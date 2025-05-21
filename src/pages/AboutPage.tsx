@@ -9,7 +9,7 @@ const AboutPage = () => {
       <section className="bg-primary-800 text-white py-16">
         <div className="container">
           <div className="max-w-3xl">
-            <h1 className="text-4xl font-bold mb-4">About Wright Security Training</h1>
+            <h1 className="text-4xl font-bold mb-4">About Wright Security Consultant Training</h1>
             <p className="text-xl text-primary-100">
               Expert security training services compliant with Florida and Georgia guidelines. Learn from industry professionals with decades of experience.
             </p>
@@ -32,7 +32,7 @@ const AboutPage = () => {
               <div className="md:w-1/2">
                 <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
                 <p className="text-gray-700 mb-6">
-                  At Wright Security Training, we are dedicated to providing the highest quality security training and certification programs. Our mission is to empower security professionals with the knowledge, skills, and credentials they need to excel in their careers and make our communities safer.
+                  At Wright Security Consultant Training, we are dedicated to providing the highest quality security training and certification programs. Our mission is to empower security professionals with the knowledge, skills, and credentials they need to excel in their careers and make our communities safer.
                 </p>
                 <p className="text-gray-700">
                   Founded by former law enforcement officers and security experts, we understand the critical importance of proper training in the security industry. We are committed to maintaining the highest standards of instruction and staying current with evolving security practices and regulations.
@@ -283,7 +283,7 @@ const AboutPage = () => {
               <div className="md:w-2/3">
                 <h2 className="text-2xl font-bold mb-4">Certifications & Accreditations</h2>
                 <p className="text-gray-700 mb-6">
-                  Wright Security Training is fully certified and approved by state regulatory agencies in Florida and Georgia. Our training programs meet or exceed all state requirements for security officer training and licensing.
+                  Wright Security Consultant Training is fully certified and approved by state regulatory agencies in Florida and Georgia. Our training programs meet or exceed all state requirements for security officer training and licensing.
                 </p>
                 <ul className="space-y-2">
                   <li className="flex items-start">

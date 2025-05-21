@@ -36,7 +36,7 @@ const ContactPage = () => {
             </div>
             <h1 className="text-3xl font-bold mb-4">Message Received</h1>
             <p className="text-lg text-gray-700 mb-6">
-              Thank you for reaching out to Wright Security Training. We've received your message and will get back to you within 1-2 business days.
+              Thank you for reaching out to Wright Security Consultant Training. We've received your message and will get back to you within 1-2 business days.
             </p>
             <div className="mt-8">
               <a href="/" className="btn btn-primary px-8 py-3">
@@ -257,7 +257,7 @@ const ContactPage = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Wright Security Training Location"
+              title="Wright Security Consultant Training Location"
             ></iframe>
           </div>
         </div>
